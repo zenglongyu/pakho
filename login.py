@@ -5,3 +5,7 @@ def login(user, pwd):
 
 def login1(user, pwd):
     return user, pwd
+
+
+def no_login():
+    print('login in success')
